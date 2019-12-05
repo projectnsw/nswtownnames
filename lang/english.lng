@@ -1,0 +1,16 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME		            :{TITLE} {VERSION} {VERSIONTITLE}
+STR_GRF_DESC 		            :Part of ProjectNSW. All coding and research by BobDendry.
+
+STR_STAT_STYLES			        :NSW (Station Names Only)
+STR_ALL_STYLES			        :NSW (All Localities)
+
+# Params
+STR_PARAM_PROVIDE               :Station Names Only
+STR_PARAM_PROVIDE_DESC          :This pack can use town names which to train stations in NSW, or thousands of place names from all over NSW.
+
+STR_PARAM_PROVIDE_ALL_NAMES     :Station Names
+STR_PARAM_PROVIDE_STATION_NAMES :All Place Names
